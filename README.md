@@ -1,10 +1,10 @@
 # criando um teste
 
 Todos os arquivos vão na pasta “/test” e os nomes tem que haver “_test” no final para ser reconhecido como arquivo de teste.
-
+```
 -test
    |-meu_teste_test.dart
-
+```
 - Estrutura básica do teste.
 ```dart
 import 'package:flutter_test/flutter_test.dart';

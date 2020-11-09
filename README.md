@@ -20,6 +20,11 @@ Antes de passar para os próximos passos é preciso aprender sobre o WidgetTeste
 <h5>Finder:</h5> Como o nome entrega, ele é responsável por achar os widgets.
 
 
+#### Afirma que o [Finder] não corresponde a nenhum widget na árvore de widgets.
+
+- [findWidgets], quando você deseja que o localizador encontre um ou mais widgets.
+- [foundOneWidget], quando você deseja que o localizador encontre exatamente um widget.
+- [foundNWidgets], quando você deseja que o localizador encontre um número específico de widgets.
 
 ```dart
 import 'package:flutter/material.dart';
